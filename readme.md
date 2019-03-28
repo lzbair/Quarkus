@@ -18,4 +18,12 @@ Native execution: ./target/quarkus-quickstart-runner
 ## Benshmark
 ![Alt text](./media/quarkus.png?raw=true "Standard Java Execution VS Native Execution")  
 
-Native startup  is more fast (146 times) than standard startup
+Native startup  is more fast (146 times) than standard startup  
+Native code size >> Java byte (.class)  code  
+Native file is a self-contained code (doesn't need jvm to be executed)  
+Native code doesn't mean binary machine code  
+
+
+## Dockerize native executable
+ 
+
