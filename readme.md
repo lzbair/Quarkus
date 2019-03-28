@@ -16,6 +16,6 @@ Java standard execution: java -jar
 Native execution: ./target/quarkus-quickstart-runner
 
 ## Benshmark
-![Alt text](./media/quarkus.png?raw=true "Standard Java Execution VS Native Execution")  
+![Alt text](./quarkus.png?raw=true "Standard Java Execution VS Native Execution")  
 
-Native startup  is more fast (146 times) than standard startup
+Native startup  is more fast (by 146 times) than standard startup
